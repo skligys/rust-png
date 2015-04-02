@@ -5,10 +5,10 @@ version = "0.1.0"
 authors = ["The Servo Project Developers"]
 documentation = "http://doc.servo.org/png/"
 
-links = "png-sys"
+links = "png_sys"
 build = "build.rs"
 
-[dependencies.png-sys]
+[dependencies.png_sys]
 path = "png-sys"
 
 [dependencies]
